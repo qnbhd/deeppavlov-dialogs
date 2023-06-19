@@ -1,0 +1,7 @@
+ray[serve]
+gradio
+numpy
+pandas
+scipy
+matplotlib
+torch
